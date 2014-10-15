@@ -1,11 +1,11 @@
 # "React" Assignment
 
-Part II (UX Study)
+h3. Part II (UX Study)
 
 For this assignment, I performed a mini user experience (UX) study with 3 of my coworkers.  
 I did not give any explanation of what the site they were looking at was, and invited them to interact with last week's version of the page, while vocalizing their experience. I took notes during the process and finally, asked them questions about their experience afterwards. 
 
-User 1
+h3. User 1
 
 Quotes:
 "What?!?"
@@ -14,7 +14,7 @@ Quotes:
 Notes:
 From the conversation that followed this user test, it became clear that the purpose of the site was very unclear. The user reported that the instructions were vague and the images did not have clear meanings either. 
 
-User 2
+h3. User 2
 
 Quotes:
 "Huh?!?"
@@ -24,7 +24,7 @@ Notes:
 This user was particularly flustered with the lack of context on the page. He observed that the header did not clarify what the purpose of the site was. 
 
 
-User 3
+h3. User 3
 
 Quotes:
 "I'll choose this one because I am a data man, myself"
